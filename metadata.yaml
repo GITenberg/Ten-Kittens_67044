@@ -5,12 +5,17 @@ contributor:
     agent_name: Walley, Helen
     gutenberg_agent_id: '54090'
     url: http://www.gutenberg.org/2009/agents/54090
+covers:
+- cover_type: archival
+  image_path: 67044-h/images/cover.jpg
 creator:
   author:
     agent_name: Puckett, G. A.
     gutenberg_agent_id: '54089'
     url: http://www.gutenberg.org/2009/agents/54089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67044#Ten-Kittens
 gutenberg_issued: '2021-12-30'
 identifiers:
   gutenberg: '67044'
